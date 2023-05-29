@@ -14,7 +14,7 @@
 }
 .card{
     width: 400px;
-    background: #fff;
+    background: #c2a083;
     padding: 40px;
     border-radius: 15px;
     text-align: center;
@@ -35,7 +35,7 @@ label{
     display: block;
     width: 200px;
     background: #e7d9cd;
-    color: #fff;
+    color: #000000;
     padding: 12px;
     margin: 10px auto;
     border-radius: 5px;
