@@ -1,7 +1,7 @@
 # tile-photo-name-email
 \
+![1](https://github.com/JCPTrevillian/tile-photo-name-email/assets/95890754/2af12db2-771b-4a67-bfcc-d79aa0c98efd)
 \
-![1](https://github.com/JCPTrevillian/image-upload/assets/95890754/cf203c73-f3fe-4d37-919c-9d96de187b27)
-\
-\
-![2](https://github.com/JCPTrevillian/image-upload/assets/95890754/bf48abf1-417a-4c2e-a34b-c54701021c44)
+![2](https://github.com/JCPTrevillian/tile-photo-name-email/assets/95890754/086cd6f8-f8f1-4906-8832-d49b0782ffe9)
+
+
